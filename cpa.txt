@@ -1,5 +1,5 @@
-{username:admin2:password:MgEKGwtW:hwid:178BFBFF00A50F00:expires:25/08/2025}
-{username:cria1:password:MBcKE1RG:hwid:178BFBFF00A50F00:expires:25/08/2025}
+{username:admin:password:MgEOGwtF:hwid:178BFBFF00A50F00:expires:22/08/2024}
+
 
 
 
